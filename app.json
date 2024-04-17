@@ -8,7 +8,7 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/mrismanaziz/Scrap-Man",
+  "repository": "https://github.com/gravityee/Scrap-Man",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
